@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+credentials*.json
+*-workflows.zip
+node_modules/
